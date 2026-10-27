@@ -1,0 +1,8 @@
+python-telegram-bot
+Telethon
+qrcode[pil]
+Pillow
+httpx
+python-socks[asyncio]
+phonenumbers
+socksio
